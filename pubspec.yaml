@@ -38,6 +38,8 @@ dependencies:
   flutter_svg: ^0.22.0
   animated_text_kit: ^4.2.1
   velocity_x: ^3.3.0
+  antdesign_icons: ^0.0.3
+  url_launcher: ^6.0.12
 
 dev_dependencies:
   flutter_test:
