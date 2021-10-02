@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:second_portfolio/constants.dart';
-import 'package:second_portfolio/screens/home/home_screen.dart';
-import 'package:second_portfolio/components/intro_progress_indicator.dart';
+import 'package:sangam_portfolio/constants.dart';
+import 'package:sangam_portfolio/screens/home/home_screen.dart';
+import 'package:sangam_portfolio/components/intro_progress_indicator.dart';
 import 'package:url_strategy/url_strategy.dart';
 
 void main() {

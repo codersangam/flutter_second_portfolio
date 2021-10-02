@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:second_portfolio/constants.dart';
-import 'package:second_portfolio/screens/components/skills.dart';
+import 'package:sangam_portfolio/constants.dart';
+import 'package:sangam_portfolio/screens/components/skills.dart';
 import 'package:velocity_x/velocity_x.dart';
 import 'package:url_launcher/url_launcher.dart';
 

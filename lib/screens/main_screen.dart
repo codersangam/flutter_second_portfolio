@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:second_portfolio/constants.dart';
-import 'package:second_portfolio/responsive.dart';
+import 'package:sangam_portfolio/constants.dart';
+import 'package:sangam_portfolio/responsive.dart';
 import 'package:velocity_x/velocity_x.dart';
 
 import 'components/side_menu.dart';

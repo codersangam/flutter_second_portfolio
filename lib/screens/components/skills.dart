@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:second_portfolio/components/animated_circular_progress_indicator.dart';
+import 'package:sangam_portfolio/components/animated_circular_progress_indicator.dart';
 import 'package:velocity_x/velocity_x.dart';
 
 import '../../constants.dart';

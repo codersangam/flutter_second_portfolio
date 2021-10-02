@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:second_portfolio/components/animated_counter.dart';
-import 'package:second_portfolio/responsive.dart';
+import 'package:sangam_portfolio/components/animated_counter.dart';
+import 'package:sangam_portfolio/responsive.dart';
 
 import '../../../constants.dart';
 import 'highlight.dart';

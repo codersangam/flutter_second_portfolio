@@ -1,6 +1,6 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
-import 'package:second_portfolio/responsive.dart';
+import 'package:sangam_portfolio/responsive.dart';
 import 'package:velocity_x/velocity_x.dart';
 
 import '../../../constants.dart';
