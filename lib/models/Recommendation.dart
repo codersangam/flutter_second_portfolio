@@ -8,7 +8,7 @@ class Recommendation {
 final List<Recommendation> demo_recommendations = [
   Recommendation(
     name: "Saroj Pasman",
-    source: "gangajal.com",
+    source: "radiogangajal.com",
     text:
         "Till now, Sangam has provided me the best services. Raised tickets several times and he solved on time. He also delivered sites on time. In briefly, he always looks after his clients to provide best of best. Thanks.",
   ),

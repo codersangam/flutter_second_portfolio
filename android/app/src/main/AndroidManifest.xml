@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.second_portfolio">
    <application
-        android:label="second_portfolio"
+        android:label="Sangam's Portfolio"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

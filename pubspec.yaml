@@ -40,6 +40,8 @@ dependencies:
   velocity_x: ^3.3.0
   antdesign_icons: ^0.0.3
   url_launcher: ^6.0.12
+  assets_audio_player: ^3.0.3+6
+  url_strategy: ^0.2.0
 
 dev_dependencies:
   flutter_test:
@@ -67,6 +69,7 @@ flutter:
   assets:
     - assets/images/
     - assets/icons/
+    - assets/sounds/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
